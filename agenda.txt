@@ -1,0 +1,111 @@
+
+Front End Web Development: Get Started
+by Joe Eames
+Expand All
+
+Course Introduction
+Learning and Solving Problems
+HTML and CSS for Front End Developers
+JavaScript
+HTTP and Interacting with the Server
+The Browser
+JavaScript in the Browser
+Basic Libraries & Tools
+Performance
+
+
+Introduction to Web Development
+by Brian Holt and Nina Zakharenko
+Introduction
+Learning and Solving Problems
+HTML
+Cascading Style Sheets (CSS)
+JavaScript
+JavaScript in the Browser
+Basic Libraries & Tools
+Performance
+jQuery
+AJAX
+Command Line
+Node.js
+
+Editor 
+https://codepen.io/
+
+===================================================================================================================================================
+LESSON 1
+===================================================================================================================================================
+Intoduction to WEB Development / Application
+Types of application
+Internet
+Coding
+
+LESSON 2
+Types of Web Development (Back and Front End)
+Problem Solving >>>
+Fron End Development 
+BackEnd Development
+Front End Developers
+Back End Developers
+Tools and Technology
+Additional Effort needed >>
+
+Web : a group of computers interacting over the Internet
+>> Application: A computer program that solves a Problem
+>> We have Desktop application and Web application >> 
+>> Application can also be known as software
+Desktop application : Operating system && Web Application : Any website         
+                            |   Desktop          |    Web                       |
+1. Platform where it run    | Locally(Computer)  | Internet (Browser) -- Server | 
+2. Those who can access it  | Copmuter Owner     | Anyone                       |
+
+WEB -->  
+Architecture of the Web
+Types of Web Development : Client/User (Browser)  & Server 
+Types of Server : Web Server & Application Server
+FrontEnd ( Where and how the user requests for data/information -- UI) && Backend ( Data that user request for)
+Front End Developer && Backend Developer
+Front End Developers are responsible for UI
+Backend developers are responsible for
+BackEnd Developers are responsible for writing code that is meant for the servers to ensure that data is available upon request to the users.  
+Backend Video : https://www.youtube.com/watch?v=cbSrsYiRamo
+
+Development : Programming : Writing Code
+We write code to use computer to solve problems
+Problems solving : 
+1. Clarify issue
+2. Alternative solution
+3. Develop/Dig deeper the best alternative
+4. Implement/Execute the best solutions
+5. Access the solution
+
+===================================================================================================================================================
+LESSON 3
+===================================================================================================================================================
+Resources that make web developers succeed
+1. Mozilla Developer Network || W3Schools (https://www.w3schools.com/ ) >> Refrence information
+2. The browser console >> Tryout javascript code and debug running web application >> Ctr +  Shift + i
+3a. Desktop Code-Editor >> SublimeText, Visual-Studio-Code, Atom, Bracket. 
+3b. WebBased Code Editor >> Coding Playground JSFiddle | JSBin | Codepen | Plunker
+4. Staying up to date with Technology People (Paul Irish && Irish Osmani) Podcast(https://shoptalkshow.com/ && https://devchat.tv/podcasts/js-jabber/) Newsletter (JavascriptWeekly &   &    HTML5 Weekly & CSS Weekly & Node Weekly) Social Media ()
+5. Online learning platforms 
+    0. Youtube 100% Free
+    1. Skillshare
+    2. LinkedIn Learning Ex Lynda
+    3. MasterClass
+    4. Udemy
+    5. Edx.org
+    6. Udacity.com
+    7. Coursera.org
+    8. Futurelearn.com
+    9. Pluralsight
+6. Strong desire and consistency and determination to learn
+7. Web development most important Tools & Relationship
+    1. HTML
+    2. CSS
+    3. Javascript
+    4. Databse : SQL OR NoSQL 
+
+
+
+
