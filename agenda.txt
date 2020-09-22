@@ -100,6 +100,11 @@ Resources that make web developers succeed
     8. Futurelearn.com
     9. Pluralsight
 6. Strong desire and consistency and determination to learn
+
+
+===================================================================================================================================================
+LESSON 4
+===================================================================================================================================================
 7. Web development most important Tools & Relationship
     1. HTML
     2. CSS
