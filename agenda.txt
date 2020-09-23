@@ -1,3 +1,13 @@
+Out of Bound:
+DOMAIN NAME  goDaddy
+ trademark free ==> (https://www.uspto.gov/)
+register the copmany in DC or Maryland
+Register your apn network
+registration@folakolgroup.com
+Slack
+Github
+
+
 
 Front End Web Development: Get Started
 by Joe Eames
@@ -110,6 +120,25 @@ LESSON 4
     2. CSS
     3. Javascript
     4. Databse : SQL OR NoSQL 
+
+Github Link : https://github.com/aekolawole/oyin-web-development
+Developer: https://stackoverflow.com/
+W3: https://www.w3.org/standards/
+
+SGML => HTML => XML => XHTML => HTML5
+Wrting the page => HTML
+Style => CSS
+INteract => Javascript
+Database => SQL or NOSQL
+
+Reading 1 
+https://www.tutorialspoint.com/html/index.htm
+https://www.tutorialspoint.com/javascript/index.htm
+https://www.tutorialspoint.com/css/index.htm
+https://www.tutorialspoint.com/sql/index.htm
+Visual Studio Code: https://code.visualstudio.com/
+
+
 
 
 
