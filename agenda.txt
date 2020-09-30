@@ -137,6 +137,7 @@ https://www.tutorialspoint.com/javascript/index.htm
 https://www.tutorialspoint.com/css/index.htm
 https://www.tutorialspoint.com/sql/index.htm
 Visual Studio Code: https://code.visualstudio.com/
+Web ENtities: https://www.w3schools.com/html/html_entities.asp
 
 
 
