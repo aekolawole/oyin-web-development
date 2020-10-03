@@ -7,3 +7,15 @@ body {
   font-style: italic;
   color: blue;
 }
+/* blockquote {
+  background-color: yellow;
+} */
+/* #myquote {
+  background-color: yellow;
+} */
+.quoteclass{
+  background-color: yellow;
+}
+.text_color{
+color: blue;
+}
