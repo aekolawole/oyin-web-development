@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lesson 4</title>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Web Development tutorials" />
+    <meta name="keywords" content="HTML, CSS, JavaScript" />
+    <meta name="author" content="Oyin, Femi" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="javascript/script.js"></script>
+  </head>
+  <body>
+    <h2>Lesson 4</h2>
+
+    <ul>
+      <li>Tables</li>
+      <li>Image</li>
+      <li>Audio</li>
+      <li>Video</li>
+      <li>Form</li>
+    </ul>
+    <hr />
+    <h3>Tables</h3>
+    <table border="1">
+      <tr>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>Address</th>
+      </tr>
+      <tr>
+        <td>Femi</td>
+        <td>1112223333</td>
+        <td>US</td>
+      </tr>
+      <tr>
+        <td>Oyin</td>
+        <td>0008889965</td>
+        <td>Canada</td>
+      </tr>
+    </table>
+    <h3>Image</h3>
+    <a href="../img/template.jpg">
+      <img src="../img/template.jpg" alt="template-pic" />
+    </a>
+    <h3>Audio</h3>
+    <audio controls="controls" src="../audio/bird.mp3">
+      <source src="../audio/bird.ogg" type="audio/ogg" />
+      Your browser does not support the HTML5 Audio element.
+    </audio>
+    <h3>Video</h3>
+    <video controls="controls" width="500px">
+      <source src="../video/shuttle.mp4" type="video/mp4" />
+      <source src="../video/shuttle..ogv" type="video/ogg" />
+      Your browser does not support the HTML5 Video element.
+    </video>
+    <h3>Form</h3>
+    <h5>Sample Form</h5>
+    <form>
+      <label>Username: <input type="text" /></label>
+      <label>Password: <input type="password" /></label>
+      <input type="submit" value="Submit" />
+    </form>
+    <h5>Text Field</h5>
+    <form>
+      <label for="username">Username:</label>
+      <input type="text" name="username" id="username" />
+    </form>
+    <h5>Text Area</h5>
+    <label for="address">Address:</label>
+
+    <textarea name="address" id="text" cols="30" rows="10"></textarea>
+
+    <h5>Password Field</h5>
+    <form>
+      <label for="user-pwd">Password:</label>
+      <input type="password" name="user-password" id="user-pwd" />
+    </form>
+
+    <h5>Radio Buttons</h5>
+    <form>
+      <input type="radio" name="gender" id="male" />
+      <label for="male">Male</label>
+      <input type="radio" name="gender" id="female" />
+      <label for="female">Female</label>
+    </form>
+
+    <h5>Checkboxes</h5>
+    <form>
+      <input type="checkbox" name="sports" id="soccer" />
+      <label for="soccer">Soccer</label>
+      <input type="checkbox" name="sports" id="cricket" />
+      <label for="cricket">Cricket</label>
+      <input type="checkbox" name="sports" id="baseball" />
+      <label for="baseball">Baseball</label>
+    </form>
+    <h5>File Select Box for uploading</h5>
+    <form>
+      <label for="file-select">Upload:</label>
+      <input type="file" name="upload" id="file-select" />
+    </form>
+
+    <h5>Submitting and Resetting</h5>
+    <form action="action.php" method="post">
+      <label for="first-name">First Name:</label>
+      <input type="text" name="first-name" id="first-name" />
+      <input type="submit" value="Submit" />
+      <input type="reset" value="Reset" />
+    </form>
+
+    <h5>Grouping Items withing a form</h5>
+    <form>
+      <fieldset>
+        <legend>Contact Details</legend>
+        <label>Email Address: <input type="email" name="email" /></label>
+        <label>Phone Number: <input type="text" name="phone" /></label>
+      </fieldset>
+    </form>
+  </body>
+</html>
